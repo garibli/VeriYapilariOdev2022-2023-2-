@@ -1,0 +1,1 @@
+Veri.txt bu klasörde olmalı
